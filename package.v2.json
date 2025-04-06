@@ -1,0 +1,14 @@
+{
+    "MultiClass": {
+        "name": "多级分类",
+        "description": "支持电影多级分类",
+        "labels": "站点,仪表板",
+        "version": "1.0",
+        "icon": "statistic.png",
+        "author": "liuhangbin",
+        "level": 2,
+        "history": {
+            "v1.0": "MoviePilot V2 版本多级分类插件"
+        }
+    }
+}
